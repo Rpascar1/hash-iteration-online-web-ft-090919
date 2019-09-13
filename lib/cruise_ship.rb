@@ -9,4 +9,5 @@
 def select_winner(passengers)
 passengers.each do |pick_winner_suite,passenger_name|
   if pick_winner_suite == "suite_a"  && passenger_name[0] == "a".upcase 
+    
 end
